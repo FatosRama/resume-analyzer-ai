@@ -1,4 +1,4 @@
 pypdf
-openai
+google-genai
 python-dotenv
 pytest
