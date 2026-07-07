@@ -1,7 +1,7 @@
 import argparse
 from dotenv import load_dotenv
 from resume_analyzer.pdf_parser import extract_text_from_pdf
-from resume_analyzer.job_parser import load_job_description
+from resume_analyzer.pdf_parser import load_job_description
 from resume_analyzer.matcher import analyze_match
 from resume_analyzer.report import print_report
 
