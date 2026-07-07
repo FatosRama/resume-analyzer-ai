@@ -1,0 +1,39 @@
+Backend Developer Intern
+
+About the Role
+We are looking for a motivated Backend Developer Intern to join our engineering team for a 6-month internship. You will work closely with senior engineers to build and maintain backend services that power our core product, gaining hands-on experience with production systems, cloud infrastructure, and modern development workflows.
+
+Responsibilities
+- Design, build, and maintain RESTful APIs using Python
+- Write clean, well-tested code and participate in code reviews
+- Work with relational databases to design efficient schemas and queries
+- Collaborate with the DevOps team to containerize and deploy services
+- Contribute to CI/CD pipelines to automate testing and deployment
+- Monitor and debug production issues under senior engineer guidance
+- Participate in Agile ceremonies (sprint planning, standups, retrospectives)
+
+Required Qualifications
+- Currently pursuing or recently completed a degree in Computer Science, Software Engineering, or a related field
+- Solid understanding of Python and object-oriented programming
+- Experience building REST APIs (Flask, Django, or FastAPI)
+- Familiarity with relational databases (PostgreSQL or MySQL) and SQL
+- Experience with Git and collaborative version control workflows
+- Basic understanding of Docker and containerization concepts
+- Strong problem-solving skills and ability to work independently
+
+Preferred Qualifications
+- Experience with Kubernetes or container orchestration
+- Exposure to CI/CD tools such as GitHub Actions, Jenkins, or GitLab CI
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Experience with GraphQL
+- Knowledge of automated testing frameworks (pytest, unittest)
+- Familiarity with Agile/Scrum development practices
+
+What We Offer
+- Mentorship from senior backend engineers
+- Real-world experience working on production systems
+- Flexible working hours
+- Potential for full-time offer upon successful completion of the internship
+
+Location: Prishtina, Kosovo (Hybrid)
+Duration: 6 months
